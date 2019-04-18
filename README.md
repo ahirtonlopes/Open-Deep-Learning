@@ -5,3 +5,7 @@ An open courseware project in Deep Learning using Keras + Tensorflow. // Projeto
 First Version: 12/09/2018
 
 Presented at Campus Party Brasil: 15/02/2019
+
+Second version: 18/04/2019
+
+- Added 7 classes taught at FIAP and 7 different demos using Keras and TensorFlow
